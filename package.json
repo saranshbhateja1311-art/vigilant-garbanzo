@@ -1,0 +1,20 @@
+{
+  "name": "jee-x-os",
+  "version": "2.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.js",
+    "cap:sync": "npx cap sync android",
+    "android": "npx cap open android",
+    "android:build": "npx cap sync android && cd android && gradlew.bat assembleDebug"
+  },
+  "dependencies": {
+    "@capacitor/android": "^8.0.0",
+    "@capacitor/cli": "^8.0.0",
+    "@capacitor/core": "^8.0.0"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "description": "JEE X OS \u2014 JEE OS 5.0 architecture with a fixed daily PCM lecture rotation, six-cycle revision, local-first tracking, Supabase snapshots and Android build workflow."
+}

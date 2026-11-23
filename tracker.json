@@ -1,0 +1,1722 @@
+{
+  "v": 18,
+  "curriculumId": "jee-x-os-2026-11-23-v1",
+  "name": "JEE X OS",
+  "exam": "",
+  "theme": "dark",
+  "accent": "violet",
+  "density": "comfortable",
+  "fontScale": "normal",
+  "defaultTab": "dash",
+  "hideCompleted": false,
+  "hideClock": false,
+  "compactDashboard": false,
+  "reducedMotion": false,
+  "confirmBulkComplete": true,
+  "planStart": "2026-11-23",
+  "dailyTotal": 3,
+  "perDay": 1,
+  "subjectOrder": "PCM",
+  "restDays": [],
+  "balance": false,
+  "buffer": 30,
+  "chapters": [
+    {
+      "id": "JXP001",
+      "sub": "P",
+      "name": "Vector & Basic Maths",
+      "url": "https://pw.muftukmall.in/contents?batchid=6530dfdbd5f8c100183223fb&subjectid=65311a4bae74a70018bf7c80&chapterid=653e706dabffbe0018fecd26",
+      "sourceOrder": 1,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXP002",
+      "sub": "P",
+      "name": "Motion in a Straight Line",
+      "url": "https://pw.muftukmall.in/contents?batchid=6530dfdbd5f8c100183223fb&subjectid=65311a4bae74a70018bf7c80&chapterid=653fe9c9ddffd00018d5db47",
+      "sourceOrder": 2,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "lectureLabel": "02"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXP003",
+      "sub": "P",
+      "name": "Motion in a Plane",
+      "url": "https://pw.muftukmall.in/contents?batchid=6530dfdbd5f8c100183223fb&subjectid=65311a4bae74a70018bf7c80&chapterid=65427e95754f8a00188bd6bc",
+      "sourceOrder": 3,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "lectureLabel": "02"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXP004",
+      "sub": "P",
+      "name": "Newton's Laws of Motion",
+      "url": "https://pw.muftukmall.in/contents?batchid=6530dfdbd5f8c100183223fb&subjectid=65311a4bae74a70018bf7c80&chapterid=6544ebe9622b4b0018d51eaa",
+      "sourceOrder": 4,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "lectureLabel": "02"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXP005",
+      "sub": "P",
+      "name": "Friction",
+      "url": "https://pw.muftukmall.in/contents?batchid=6530dfdbd5f8c100183223fb&subjectid=65311a4bae74a70018bf7c80&chapterid=6548d334ffd5ac7561fad27b",
+      "sourceOrder": 5,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXP006",
+      "sub": "P",
+      "name": "Circular Motion",
+      "url": "https://pw.muftukmall.in/contents?batchid=6530dfdbd5f8c100183223fb&subjectid=65311a4bae74a70018bf7c80&chapterid=654a6b687912b66880dc1c69",
+      "sourceOrder": 6,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXP007",
+      "sub": "P",
+      "name": "Work, Power & Energy",
+      "url": "https://pw.muftukmall.in/contents?batchid=6530dfdbd5f8c100183223fb&subjectid=65311a4bae74a70018bf7c80&chapterid=654b771a6fe35ecdceeb7980",
+      "sourceOrder": 7,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "lectureLabel": "02"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXP008",
+      "sub": "P",
+      "name": "Centre of Mass & System of Particles",
+      "url": "https://pw.muftukmall.in/contents?batchid=6530dfdbd5f8c100183223fb&subjectid=65311a4bae74a70018bf7c80&chapterid=654e5ea6e86b43a8099b84b0",
+      "sourceOrder": 8,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "lectureLabel": "02"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXP009",
+      "sub": "P",
+      "name": "Rotational Motion",
+      "url": "https://pw.muftukmall.in/contents?batchid=6530dfdbd5f8c100183223fb&subjectid=65311a4bae74a70018bf7c80&chapterid=6555ffaabb2d3460f108b482",
+      "sourceOrder": 9,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "lectureLabel": "02"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXP010",
+      "sub": "P",
+      "name": "Mechanical Properties of Solids",
+      "url": "https://pw.muftukmall.in/contents?batchid=6530dfdbd5f8c100183223fb&subjectid=65311a4bae74a70018bf7c80&chapterid=655b8b32295ab427b5c463c9",
+      "sourceOrder": 10,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXP011",
+      "sub": "P",
+      "name": "Mechanical Properties of Fluids",
+      "url": "https://pw.muftukmall.in/contents?batchid=6530dfdbd5f8c100183223fb&subjectid=65311a4bae74a70018bf7c80&chapterid=655ce7432b235c8695c1251b",
+      "sourceOrder": 11,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "lectureLabel": "02"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXP012",
+      "sub": "P",
+      "name": "Thermal Properties of Matter",
+      "url": "https://pw.muftukmall.in/contents?batchid=6530dfdbd5f8c100183223fb&subjectid=65311a4bae74a70018bf7c80&chapterid=655f425f90910bef76782bb5",
+      "sourceOrder": 12,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXP013",
+      "sub": "P",
+      "name": "KTG & Thermodynamics",
+      "url": "https://pw.muftukmall.in/contents?batchid=6530dfdbd5f8c100183223fb&subjectid=65311a4bae74a70018bf7c80&chapterid=6560b8eec9a1118ed1114a43",
+      "sourceOrder": 13,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "lectureLabel": "02"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXP014",
+      "sub": "P",
+      "name": "SHM",
+      "url": "https://pw.muftukmall.in/contents?batchid=6530dfdbd5f8c100183223fb&subjectid=65311a4bae74a70018bf7c80&chapterid=6564b5f7f35563fbc5f19db0",
+      "sourceOrder": 14,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "lectureLabel": "02"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXP015",
+      "sub": "P",
+      "name": "Waves",
+      "url": "https://pw.muftukmall.in/contents?batchid=6530dfdbd5f8c100183223fb&subjectid=65311a4bae74a70018bf7c80&chapterid=65676f8130b45d5c98f7e41c",
+      "sourceOrder": 15,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "lectureLabel": "02"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXP016",
+      "sub": "P",
+      "name": "Electric Charges & Field",
+      "url": "https://pw.muftukmall.in/contents?batchid=6530dfdbd5f8c100183223fb&subjectid=65311a4bae74a70018bf7c80&chapterid=656a03a6244f86a689dace21",
+      "sourceOrder": 16,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "lectureLabel": "03"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXP017",
+      "sub": "P",
+      "name": "Electrostatic Potential & Capacitance",
+      "url": "https://pw.muftukmall.in/contents?batchid=6530dfdbd5f8c100183223fb&subjectid=65311a4bae74a70018bf7c80&chapterid=656f4d9ba162576c4a59b11c",
+      "sourceOrder": 17,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "lectureLabel": "03"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXP018",
+      "sub": "P",
+      "name": "Gravitation",
+      "url": "https://pw.muftukmall.in/contents?batchid=6530dfdbd5f8c100183223fb&subjectid=65311a4bae74a70018bf7c80&chapterid=65735d8c0a1e358f0ad0c8d6",
+      "sourceOrder": 18,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXP019",
+      "sub": "P",
+      "name": "Current Electricity",
+      "url": "https://pw.muftukmall.in/contents?batchid=6530dfdbd5f8c100183223fb&subjectid=65311a4bae74a70018bf7c80&chapterid=6575eaa89f336ac6854ed742",
+      "sourceOrder": 19,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "lectureLabel": "03"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXP020",
+      "sub": "P",
+      "name": "Moving Charges & Magnetism",
+      "url": "https://pw.muftukmall.in/contents?batchid=6530dfdbd5f8c100183223fb&subjectid=65311a4bae74a70018bf7c80&chapterid=6579e3c1d33a10a977df8667",
+      "sourceOrder": 20,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "lectureLabel": "02"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXP021",
+      "sub": "P",
+      "name": "Magnetism & Matter",
+      "url": "https://pw.muftukmall.in/contents?batchid=6530dfdbd5f8c100183223fb&subjectid=65311a4bae74a70018bf7c80&chapterid=657cfd3706d767f413aba8bb",
+      "sourceOrder": 21,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "lectureLabel": "02"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXP022",
+      "sub": "P",
+      "name": "Electromagnetic Induction",
+      "url": "https://pw.muftukmall.in/contents?batchid=6530dfdbd5f8c100183223fb&subjectid=65311a4bae74a70018bf7c80&chapterid=6580ad4fdf6a6aa860b139cc",
+      "sourceOrder": 22,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "lectureLabel": "02"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXP023",
+      "sub": "P",
+      "name": "Alternating Current",
+      "url": "https://pw.muftukmall.in/contents?batchid=6530dfdbd5f8c100183223fb&subjectid=65311a4bae74a70018bf7c80&chapterid=65831c043efc64156543943b",
+      "sourceOrder": 23,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "lectureLabel": "02"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXP024",
+      "sub": "P",
+      "name": "Electromagnetic Waves",
+      "url": "https://pw.muftukmall.in/contents?batchid=6530dfdbd5f8c100183223fb&subjectid=65311a4bae74a70018bf7c80&chapterid=6585a8bb97be54a73f592c15",
+      "sourceOrder": 24,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXP025",
+      "sub": "P",
+      "name": "Ray Optics",
+      "url": "https://pw.muftukmall.in/contents?batchid=6530dfdbd5f8c100183223fb&subjectid=65311a4bae74a70018bf7c80&chapterid=6589ce7509d893e9bdfb2025",
+      "sourceOrder": 25,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "lectureLabel": "03"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXP026",
+      "sub": "P",
+      "name": "Wave Optics",
+      "url": "https://pw.muftukmall.in/contents?batchid=6530dfdbd5f8c100183223fb&subjectid=65311a4bae74a70018bf7c80&chapterid=658da852cda5c0a563fd1df5",
+      "sourceOrder": 26,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "lectureLabel": "02"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXP027",
+      "sub": "P",
+      "name": "Dual Nature of Radiation & Matter",
+      "url": "https://pw.muftukmall.in/contents?batchid=6530dfdbd5f8c100183223fb&subjectid=65311a4bae74a70018bf7c80&chapterid=65944f3ef614543f5bdf2191",
+      "sourceOrder": 27,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXP028",
+      "sub": "P",
+      "name": "Atoms",
+      "url": "https://pw.muftukmall.in/contents?batchid=6530dfdbd5f8c100183223fb&subjectid=65311a4bae74a70018bf7c80&chapterid=659598036bca4a1a8559b242",
+      "sourceOrder": 28,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXP029",
+      "sub": "P",
+      "name": "Nuclei",
+      "url": "https://pw.muftukmall.in/contents?batchid=6530dfdbd5f8c100183223fb&subjectid=65311a4bae74a70018bf7c80&chapterid=6596efcaed210ca49d74da69",
+      "sourceOrder": 29,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXP030",
+      "sub": "P",
+      "name": "Semiconductors",
+      "url": "https://pw.muftukmall.in/contents?batchid=6530dfdbd5f8c100183223fb&subjectid=65311a4bae74a70018bf7c80&chapterid=6598471ed126c71d3608f472",
+      "sourceOrder": 30,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXP031",
+      "sub": "P",
+      "name": "Units & Measurement",
+      "url": "https://pw.muftukmall.in/contents?batchid=6530dfdbd5f8c100183223fb&subjectid=65311a4bae74a70018bf7c80&chapterid=659ae6acabb62ec235937c63",
+      "sourceOrder": 31,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXP032",
+      "sub": "P",
+      "name": "Experimental Physics",
+      "url": "https://pw.muftukmall.in/contents?batchid=6530dfdbd5f8c100183223fb&subjectid=65311a4bae74a70018bf7c80&chapterid=65a0c66094fc052e72597687",
+      "sourceOrder": 32,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXC001",
+      "sub": "C",
+      "name": "Some Basic Concepts of Chemistry",
+      "url": "https://pw.muftukmall.in/contents?batchid=678a39b18809c4305f2bf1a0&subjectid=68d670914f48556de2b32a22&chapterid=68ea4c82adcea9e61b1207c4",
+      "sourceOrder": 1,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "lectureLabel": "04"
+        },
+        {
+          "d": null,
+          "lectureLabel": "05"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXC002",
+      "sub": "C",
+      "name": "Atomic Structure",
+      "url": "https://pw.muftukmall.in/contents?batchid=678a39b18809c4305f2bf1a0&subjectid=68d670914f48556de2b32a22&chapterid=68ea4c82adcea9e61b1207ca",
+      "sourceOrder": 2,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "lectureLabel": "02"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXC003",
+      "sub": "C",
+      "name": "Periodic Classification",
+      "url": "https://pw.muftukmall.in/contents?batchid=6530dfdbd5f8c100183223fb&subjectid=65311a9026e20c00198ce0f4&chapterid=6565fece42588a1e2f2d8537",
+      "sourceOrder": 3,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "lectureLabel": "02"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXC004",
+      "sub": "C",
+      "name": "Chemical Bonding",
+      "url": "https://pw.muftukmall.in/contents?batchid=6530dfdbd5f8c100183223fb&subjectid=65311a9026e20c00198ce0f4&chapterid=6568c43d6c9b25bc15154b2e",
+      "sourceOrder": 4,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "lectureLabel": "02"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXC005",
+      "sub": "C",
+      "name": "Redox Reactions and Volumetric Analysis",
+      "url": "https://pw.muftukmall.in/contents?batchid=678a39b18809c4305f2bf1a0&subjectid=68d670914f48556de2b32a22&chapterid=68ea4c82adcea9e61b1207cb",
+      "sourceOrder": 5,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXC006",
+      "sub": "C",
+      "name": "Hydrogen",
+      "url": "https://pw.muftukmall.in/contents?batchid=6530dfdbd5f8c100183223fb&subjectid=65311a9026e20c00198ce0f4&chapterid=659d70fe8e99d809c639f327",
+      "sourceOrder": 6,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXC007",
+      "sub": "C",
+      "name": "IUPAC Nomenclature",
+      "url": "https://pw.muftukmall.in/contents?batchid=678a39b18809c4305f2bf1a0&subjectid=68d67090a35649bb1d637672&chapterid=68ea4c919f6765c69ca5cd37",
+      "sourceOrder": 7,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXC008",
+      "sub": "C",
+      "name": "General Organic Chemistry",
+      "url": "https://pw.muftukmall.in/contents?batchid=678a39b18809c4305f2bf1a0&subjectid=68d67090a35649bb1d637672&chapterid=68ea4c919f6765c69ca5cd2f",
+      "sourceOrder": 8,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "lectureLabel": "04"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXC009",
+      "sub": "C",
+      "name": "Isomerism",
+      "url": "https://pw.muftukmall.in/contents?batchid=678a39b18809c4305f2bf1a0&subjectid=68d67090a35649bb1d637672&chapterid=68ea4c919f6765c69ca5cd30",
+      "sourceOrder": 9,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "lectureLabel": "04"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXC010",
+      "sub": "C",
+      "name": "S Block Elements",
+      "url": "https://pw.muftukmall.in/contents?batchid=6530dfdbd5f8c100183223fb&subjectid=65311a9026e20c00198ce0f4&chapterid=659edb47f3cfac53201bc2c3",
+      "sourceOrder": 10,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "lectureLabel": "02"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXC011",
+      "sub": "C",
+      "name": "Hydrocarbons",
+      "url": "https://pw.muftukmall.in/contents?batchid=678a39b18809c4305f2bf1a0&subjectid=68d67090a35649bb1d637672&chapterid=68ea4c919f6765c69ca5cd31",
+      "sourceOrder": 11,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "lectureLabel": "04"
+        },
+        {
+          "d": null,
+          "lectureLabel": "05"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXC012",
+      "sub": "C",
+      "name": "States of Matter",
+      "url": "https://pw.muftukmall.in/contents?batchid=678a39b18809c4305f2bf1a0&subjectid=68d670914f48556de2b32a22&chapterid=69ac5aaafbc9c941c9085d53",
+      "sourceOrder": 12,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "lectureLabel": "02"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXC013",
+      "sub": "C",
+      "name": "Thermodynamics & Thermochemistry",
+      "url": "https://pw.muftukmall.in/contents?batchid=678a39b18809c4305f2bf1a0&subjectid=68d670914f48556de2b32a22&chapterid=68ea4c82adcea9e61b1207c6",
+      "sourceOrder": 13,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "lectureLabel": "02"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXC014",
+      "sub": "C",
+      "name": "Chemical Equilibrium",
+      "url": "https://pw.muftukmall.in/contents?batchid=678a39b18809c4305f2bf1a0&subjectid=68d670914f48556de2b32a22&chapterid=68ea4c82adcea9e61b1207c7",
+      "sourceOrder": 14,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "lectureLabel": "02"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXC015",
+      "sub": "C",
+      "name": "Ionic Equilibrium",
+      "url": "https://pw.muftukmall.in/contents?batchid=678a39b18809c4305f2bf1a0&subjectid=68d670914f48556de2b32a22&chapterid=6914429c8a226d2710bc4101",
+      "sourceOrder": 15,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "lectureLabel": "02"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXC016",
+      "sub": "C",
+      "name": "Solid State",
+      "url": "https://pw.muftukmall.in/contents?batchid=678a39b18809c4305f2bf1a0&subjectid=68d670914f48556de2b32a22&chapterid=69abb881b218d30508734cce",
+      "sourceOrder": 16,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "lectureLabel": "02"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXC017",
+      "sub": "C",
+      "name": "P Block",
+      "url": "https://pw.muftukmall.in/contents?batchid=6530dfdbd5f8c100183223fb&subjectid=65311a9026e20c00198ce0f4&chapterid=65930836cea15e540c4e18a8",
+      "sourceOrder": 17,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "lectureLabel": "02"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXC018",
+      "sub": "C",
+      "name": "Solutions",
+      "url": "https://pw.muftukmall.in/contents?batchid=678a39b18809c4305f2bf1a0&subjectid=68d670914f48556de2b32a22&chapterid=68ea4c82adcea9e61b1207c5",
+      "sourceOrder": 18,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "lectureLabel": "04"
+        },
+        {
+          "d": null,
+          "lectureLabel": "05"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXC019",
+      "sub": "C",
+      "name": "Electrochemistry",
+      "url": "https://pw.muftukmall.in/contents?batchid=678a39b18809c4305f2bf1a0&subjectid=68d670914f48556de2b32a22&chapterid=68ea4c82adcea9e61b1207c8",
+      "sourceOrder": 19,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "lectureLabel": "03"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXC020",
+      "sub": "C",
+      "name": "Metallurgy",
+      "url": "https://pw.muftukmall.in/contents?batchid=6530dfdbd5f8c100183223fb&subjectid=65311a9026e20c00198ce0f4&chapterid=65a17db1a1979ec440c51b31",
+      "sourceOrder": 20,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXC021",
+      "sub": "C",
+      "name": "Chemical Kinetics",
+      "url": "https://pw.muftukmall.in/contents?batchid=678a39b18809c4305f2bf1a0&subjectid=68d670914f48556de2b32a22&chapterid=68ea4c82adcea9e61b1207c9",
+      "sourceOrder": 21,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "lectureLabel": "04"
+        },
+        {
+          "d": null,
+          "lectureLabel": "05"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXC022",
+      "sub": "C",
+      "name": "Surface Chemistry",
+      "url": "https://pw.muftukmall.in/contents?batchid=678a39b18809c4305f2bf1a0&subjectid=68d670914f48556de2b32a22&chapterid=69abc6cc1ecaf687ded1e420",
+      "sourceOrder": 22,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXC023",
+      "sub": "C",
+      "name": "Haloalkanes and Haloarenes",
+      "url": "https://pw.muftukmall.in/contents?batchid=678a39b18809c4305f2bf1a0&subjectid=68d67090a35649bb1d637672&chapterid=68ea4c919f6765c69ca5cd32",
+      "sourceOrder": 23,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "lectureLabel": "04"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXC024",
+      "sub": "C",
+      "name": "Alcohol, Phenol and Ether",
+      "url": "https://pw.muftukmall.in/contents?batchid=678a39b18809c4305f2bf1a0&subjectid=68d67090a35649bb1d637672&chapterid=68ea4c919f6765c69ca5cd33",
+      "sourceOrder": 24,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "lectureLabel": "02"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXC025",
+      "sub": "C",
+      "name": "Aldehyde, Ketone and Carboxylic Acid",
+      "url": "https://pw.muftukmall.in/contents?batchid=678a39b18809c4305f2bf1a0&subjectid=68d67090a35649bb1d637672&chapterid=68ea4c919f6765c69ca5cd34",
+      "sourceOrder": 25,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "lectureLabel": "03"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXC026",
+      "sub": "C",
+      "name": "Amines",
+      "url": "https://pw.muftukmall.in/contents?batchid=678a39b18809c4305f2bf1a0&subjectid=68d67090a35649bb1d637672&chapterid=68ea4c919f6765c69ca5cd35",
+      "sourceOrder": 26,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "lectureLabel": "02"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXC027",
+      "sub": "C",
+      "name": "Practical Organic Chemistry",
+      "url": "https://pw.muftukmall.in/contents?batchid=678a39b18809c4305f2bf1a0&subjectid=68d67090a35649bb1d637672&chapterid=68ea4c919f6765c69ca5cd38",
+      "sourceOrder": 27,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXC028",
+      "sub": "C",
+      "name": "Biomolecules",
+      "url": "https://pw.muftukmall.in/contents?batchid=678a39b18809c4305f2bf1a0&subjectid=68d67090a35649bb1d637672&chapterid=68ea4c919f6765c69ca5cd36",
+      "sourceOrder": 28,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "lectureLabel": "02"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXC029",
+      "sub": "C",
+      "name": "D and D Block",
+      "url": "https://pw.muftukmall.in/contents?batchid=6530dfdbd5f8c100183223fb&subjectid=65311a9026e20c00198ce0f4&chapterid=65984bb5abb62ec2357f694a",
+      "sourceOrder": 29,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "lectureLabel": "02"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXC030",
+      "sub": "C",
+      "name": "Coordination Chemistry",
+      "url": "https://pw.muftukmall.in/contents?batchid=6530dfdbd5f8c100183223fb&subjectid=65311a9026e20c00198ce0f4&chapterid=6595871ccea15e540c6e07cc",
+      "sourceOrder": 30,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "lectureLabel": "02"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXC031",
+      "sub": "C",
+      "name": "Salt Analysis",
+      "url": "https://pw.muftukmall.in/contents?batchid=6530dfdbd5f8c100183223fb&subjectid=65311a9026e20c00198ce0f4&chapterid=659c35c42169f37e5edfccae",
+      "sourceOrder": 31,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXC032",
+      "sub": "C",
+      "name": "Polymers",
+      "url": "https://pw.muftukmall.in/contents?batchid=678a39b18809c4305f2bf1a0&subjectid=68d67090a35649bb1d637672&chapterid=69a96879026925b48c2417a8",
+      "sourceOrder": 32,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXC033",
+      "sub": "C",
+      "name": "Chemistry Everyday in Life",
+      "url": "https://pw.muftukmall.in/contents?batchid=678a39b18809c4305f2bf1a0&subjectid=68d67090a35649bb1d637672&chapterid=69aa8979ed16afb98a30f7f3",
+      "sourceOrder": 33,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXC034",
+      "sub": "C",
+      "name": "Environmental Chemistry",
+      "url": "https://pw.muftukmall.in/contents?batchid=678a39b18809c4305f2bf1a0&subjectid=68d67090a35649bb1d637672&chapterid=69aa89d0f991586341dad48e",
+      "sourceOrder": 34,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXM001",
+      "sub": "M",
+      "name": "Basic Maths",
+      "url": "https://pw.muftukmall.in/contents?batchid=6530dfdbd5f8c100183223fb&subjectid=65311ace0c3aef00181c45a5&chapterid=653e73a67d21130018e6c888",
+      "sourceOrder": 1,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "lectureLabel": "02"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXM002",
+      "sub": "M",
+      "name": "Quadratic Equation",
+      "url": "https://pw.muftukmall.in/contents?batchid=6530dfdbd5f8c100183223fb&subjectid=65311ace0c3aef00181c45a5&chapterid=65411efdd92eb000189cdf96",
+      "sourceOrder": 2,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "lectureLabel": "03"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXM003",
+      "sub": "M",
+      "name": "Sequence and Series",
+      "url": "https://pw.muftukmall.in/contents?batchid=6530dfdbd5f8c100183223fb&subjectid=65311ace0c3aef00181c45a5&chapterid=6544cdba0ac1d8001820bb46",
+      "sourceOrder": 3,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "lectureLabel": "02"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXM004",
+      "sub": "M",
+      "name": "Trigonometric Functions and Equation",
+      "url": "https://pw.muftukmall.in/contents?batchid=6530dfdbd5f8c100183223fb&subjectid=65311ace0c3aef00181c45a5&chapterid=6548a3c7ffd5ac7561f8ddef",
+      "sourceOrder": 4,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "lectureLabel": "02"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXM005",
+      "sub": "M",
+      "name": "Matrix",
+      "url": "https://pw.muftukmall.in/contents?batchid=6530dfdbd5f8c100183223fb&subjectid=65311ace0c3aef00181c45a5&chapterid=654b7a38ccf08b6f1937fbe9",
+      "sourceOrder": 5,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "lectureLabel": "02"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXM006",
+      "sub": "M",
+      "name": "Determinant",
+      "url": "https://pw.muftukmall.in/contents?batchid=6530dfdbd5f8c100183223fb&subjectid=65311ace0c3aef00181c45a5&chapterid=654e2b1c095e25ca388d0a96",
+      "sourceOrder": 6,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "lectureLabel": "02"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXM007",
+      "sub": "M",
+      "name": "Straight Lines",
+      "url": "https://pw.muftukmall.in/contents?batchid=6530dfdbd5f8c100183223fb&subjectid=65311ace0c3aef00181c45a5&chapterid=655609d8d200df102161e2b0",
+      "sourceOrder": 7,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "lectureLabel": "02"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXM008",
+      "sub": "M",
+      "name": "Circle",
+      "url": "https://pw.muftukmall.in/contents?batchid=6530dfdbd5f8c100183223fb&subjectid=65311ace0c3aef00181c45a5&chapterid=655b8b8fbba83ea6ffbb8780",
+      "sourceOrder": 8,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "lectureLabel": "02"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXM009",
+      "sub": "M",
+      "name": "Conic Section",
+      "url": "https://pw.muftukmall.in/contents?batchid=6530dfdbd5f8c100183223fb&subjectid=65311ace0c3aef00181c45a5&chapterid=655dcad70f4aafad01034b1c",
+      "sourceOrder": 9,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "lectureLabel": "02"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXM010",
+      "sub": "M",
+      "name": "Complex Number",
+      "url": "https://pw.muftukmall.in/contents?batchid=6530dfdbd5f8c100183223fb&subjectid=65311ace0c3aef00181c45a5&chapterid=6560ba999c9c2a2e8344f5a2",
+      "sourceOrder": 10,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "lectureLabel": "02"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXM011",
+      "sub": "M",
+      "name": "Set",
+      "url": "https://pw.muftukmall.in/contents?batchid=6530dfdbd5f8c100183223fb&subjectid=65311ace0c3aef00181c45a5&chapterid=6564bdda803c0ea96b757cc5",
+      "sourceOrder": 11,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXM012",
+      "sub": "M",
+      "name": "Relation and Function",
+      "url": "https://pw.muftukmall.in/contents?batchid=6530dfdbd5f8c100183223fb&subjectid=65311ace0c3aef00181c45a5&chapterid=6565fd8f0f89d6a996b30fbe",
+      "sourceOrder": 12,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "lectureLabel": "04"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXM013",
+      "sub": "M",
+      "name": "Inverse Trigonometric Functions",
+      "url": "https://pw.muftukmall.in/contents?batchid=6530dfdbd5f8c100183223fb&subjectid=65311ace0c3aef00181c45a5&chapterid=656cab06333b51dff744a1bc",
+      "sourceOrder": 13,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "lectureLabel": "02"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXM014",
+      "sub": "M",
+      "name": "Limit",
+      "url": "https://pw.muftukmall.in/contents?batchid=6530dfdbd5f8c100183223fb&subjectid=65311ace0c3aef00181c45a5&chapterid=656f5093a162576c4a59ca59",
+      "sourceOrder": 14,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "lectureLabel": "02"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXM015",
+      "sub": "M",
+      "name": "Continuity and Differentiability",
+      "url": "https://pw.muftukmall.in/contents?batchid=6530dfdbd5f8c100183223fb&subjectid=65311ace0c3aef00181c45a5&chapterid=6571e9d68bf88ede08d24b9f",
+      "sourceOrder": 15,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "lectureLabel": "02"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXM016",
+      "sub": "M",
+      "name": "Method of Differentiation",
+      "url": "https://pw.muftukmall.in/contents?batchid=6530dfdbd5f8c100183223fb&subjectid=65311ace0c3aef00181c45a5&chapterid=6575e8176b754c55beb90c51",
+      "sourceOrder": 16,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "lectureLabel": "02"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXM017",
+      "sub": "M",
+      "name": "Application of Derivatives",
+      "url": "https://pw.muftukmall.in/contents?batchid=6530dfdbd5f8c100183223fb&subjectid=65311ace0c3aef00181c45a5&chapterid=65788d5099df302ccffd9c87",
+      "sourceOrder": 17,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "lectureLabel": "03"
+        },
+        {
+          "d": null,
+          "lectureLabel": "04"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXM018",
+      "sub": "M",
+      "name": "Integrals",
+      "url": "https://pw.muftukmall.in/contents?batchid=6530dfdbd5f8c100183223fb&subjectid=65311ace0c3aef00181c45a5&chapterid=657f285ee61659e23f18b1a5",
+      "sourceOrder": 18,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "lectureLabel": "03"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXM019",
+      "sub": "M",
+      "name": "Application of Integrals",
+      "url": "https://pw.muftukmall.in/contents?batchid=6530dfdbd5f8c100183223fb&subjectid=65311ace0c3aef00181c45a5&chapterid=658320ddea065516e37fe06a",
+      "sourceOrder": 19,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "lectureLabel": "02"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXM020",
+      "sub": "M",
+      "name": "Differential Equation",
+      "url": "https://pw.muftukmall.in/contents?batchid=6530dfdbd5f8c100183223fb&subjectid=65311ace0c3aef00181c45a5&chapterid=6585ac503d4b61e1ca4a8f0d",
+      "sourceOrder": 20,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "lectureLabel": "02"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXM021",
+      "sub": "M",
+      "name": "Vector",
+      "url": "https://pw.muftukmall.in/contents?batchid=6530dfdbd5f8c100183223fb&subjectid=65311ace0c3aef00181c45a5&chapterid=658b0e2e24063db50e2dd2a2",
+      "sourceOrder": 21,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "lectureLabel": "02"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXM022",
+      "sub": "M",
+      "name": "3D Geometry",
+      "url": "https://pw.muftukmall.in/contents?batchid=6530dfdbd5f8c100183223fb&subjectid=65311ace0c3aef00181c45a5&chapterid=658dac257d09d84f718fc06e",
+      "sourceOrder": 22,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "lectureLabel": "02"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXM023",
+      "sub": "M",
+      "name": "Binomial Theorem",
+      "url": "https://pw.muftukmall.in/contents?batchid=6530dfdbd5f8c100183223fb&subjectid=65311ace0c3aef00181c45a5&chapterid=6593059f798f93675584d864",
+      "sourceOrder": 23,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "lectureLabel": "02"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXM024",
+      "sub": "M",
+      "name": "Permutations and Combinations",
+      "url": "https://pw.muftukmall.in/contents?batchid=6530dfdbd5f8c100183223fb&subjectid=65311ace0c3aef00181c45a5&chapterid=6596eff7d5dad69fe138a8a2",
+      "sourceOrder": 24,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "lectureLabel": "02"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXM025",
+      "sub": "M",
+      "name": "Probability",
+      "url": "https://pw.muftukmall.in/contents?batchid=6530dfdbd5f8c100183223fb&subjectid=65311ace0c3aef00181c45a5&chapterid=659c38184f7fb18fa99624e2",
+      "sourceOrder": 25,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "lectureLabel": "03"
+        }
+      ],
+      "custom": false
+    },
+    {
+      "id": "JXM026",
+      "sub": "M",
+      "name": "Statistics",
+      "url": "https://pw.muftukmall.in/contents?batchid=6530dfdbd5f8c100183223fb&subjectid=65311ace0c3aef00181c45a5&chapterid=65a030e5b46e2f90c7c3d702",
+      "sourceOrder": 26,
+      "lects": [
+        {
+          "d": null,
+          "lectureLabel": "01"
+        },
+        {
+          "d": null,
+          "lectureLabel": "02"
+        },
+        {
+          "d": null,
+          "lectureLabel": "03"
+        }
+      ],
+      "custom": false
+    }
+  ],
+  "rev": {},
+  "focus": {},
+  "rlog": {},
+  "snz": {},
+  "tres": [],
+  "tplan": [],
+  "td": null,
+  "dpp": {},
+  "practice": {}
+}

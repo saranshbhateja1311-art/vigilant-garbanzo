@@ -1,0 +1,4 @@
+JEE X OS — JEE OS 5.0 Architecture Port
+Version: 2.0.0
+Curriculum: 92 chapters / 192 lectures
+Daily rotation: Physics → Chemistry → Maths, one next-incomplete lecture per subject.
